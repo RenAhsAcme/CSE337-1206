@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/sql/00_version_check.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/01_create_base.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/02_insert_data.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/03_error_check.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/05_complex_query.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/06_trigger.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/07_trigger_test.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/W02.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/W03.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/W04.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+    <file url="file://$PROJECT_DIR$/sql/W07_A.sql" value="a58482f8-ab6f-4d78-b12c-9305c02d541a" />
+  </component>
+</project>
